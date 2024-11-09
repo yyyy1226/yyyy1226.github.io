@@ -88,9 +88,9 @@ async function renderServices() {
         card.className = 'service-card';
         
         card.innerHTML = `
-            <a href="${url}" target="_blank">
-                <img src="${service.icon}" alt="${service.name}" 
-                     onerror="this.src='/images/default.png'">
+        <a href="${url}" target="_blank">
+            <img src="${service.icon}" alt="${service.name}" 
+                onerror="this.src='./images/default.png'">
                 <h3>${service.name}</h3>
                 ${service.showDesc && service.desc ? `<p>${service.desc}</p>` : ''}
             </a>

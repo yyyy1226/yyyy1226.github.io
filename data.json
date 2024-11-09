@@ -5,7 +5,7 @@
     "services": [
         {
             "name": "Unraid",
-            "icon": "/images/unraid.png",
+            "icon": "./images/unraid.png",
             "desc": "Unraid",
             "showDesc": false,
             "internalUrl": "https://192.168.1.2",
@@ -13,7 +13,7 @@
         },
         {
             "name": "群晖",
-            "icon": "/images/DSM2.png",
+            "icon": "./images/DSM2.png",
             "desc": "群晖",
             "showDesc": false,
             "internalUrl": "https://192.168.1.29:5001",
@@ -21,7 +21,7 @@
         },
         {
             "name": "Bitwarden",
-            "icon": "/images/bitwarden.png",
+            "icon": "./images/bitwarden.png",
             "desc": "Bitwarden",
             "showDesc": false,
             "internalUrl": "http://192.168.1.29:5080",
@@ -29,7 +29,7 @@
         },
         {
             "name": "Calibre-Web",
-            "icon": "/images/calibre-web.png",
+            "icon": "./images/calibre-web.png",
             "desc": "Calibre-Web",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:8083",
@@ -37,7 +37,7 @@
         },
         {
             "name": "emby",
-            "icon": "/images/emby.png",
+            "icon": "./images/emby.png",
             "desc": "emby",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:8096",
@@ -45,7 +45,7 @@
         },
         {
             "name": "FileBrower",
-            "icon": "/images/FileBrowser.png",
+            "icon": "./images/FileBrowser.png",
             "desc": "FileBrower",
             "showDesc": false,
             "internalUrl": "https://192.168.1.2:18082",
@@ -53,7 +53,7 @@
         },
         {
             "name": "alist",
-            "icon": "/images/alist.svg",
+            "icon": "./images/alist.svg",
             "desc": "alist",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:5244",
@@ -61,7 +61,7 @@
         },
         {
             "name": "zfile3",
-            "icon": "/images/zfile.png",
+            "icon": "./images/zfile.png",
             "desc": "zfile3",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:8780",
@@ -69,7 +69,7 @@
         },
         {
             "name": "zfile4",
-            "icon": "/images/zfile.png",
+            "icon": "./images/zfile.png",
             "desc": "zfile4",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:8783",
@@ -77,7 +77,7 @@
         },
         {
             "name": "qBittorrent",
-            "icon": "/images/qbittorrent.png",
+            "icon": "./images/qbittorrent.png",
             "desc": "qBittorrent",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:18086",
@@ -85,7 +85,7 @@
         },
         {
             "name": "immich",
-            "icon": "/images/immich.png",
+            "icon": "./images/immich.png",
             "desc": "immich",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:2283",
@@ -93,7 +93,7 @@
         },
         {
             "name": "photoprism",
-            "icon": "/images/photoprism.png",
+            "icon": "./images/photoprism.png",
             "desc": "相册",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:2342",
@@ -101,7 +101,7 @@
         },
         {
             "name": "MoviePilot",
-            "icon": "/images/moviepilot.png",
+            "icon": "./images/moviepilot.png",
             "desc": "MoviePilot",
             "showDesc": false,
             "internalUrl": "https://192.168.1.2:3041",
@@ -109,7 +109,7 @@
         },
         {
             "name": "软路由",
-            "icon": "/images/router.png",
+            "icon": "./images/router.png",
             "desc": "软路由",
             "showDesc": false,
             "internalUrl": "http://192.168.0.1",
@@ -117,7 +117,7 @@
         },
         {
             "name": "chatgpt-next-1",
-            "icon": "/images/chatgpt.png",
+            "icon": "./images/chatgpt.png",
             "desc": "chatgpt-next-1",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:3002",
@@ -125,7 +125,7 @@
         },
         {
             "name": "chatgpt-next-2",
-            "icon": "/images/chatgpt.png",
+            "icon": "./images/chatgpt.png",
             "desc": "chatgpt-next-2",
             "showDesc": false,
             "internalUrl": "http://192.168.1.29:53050",
@@ -133,7 +133,7 @@
         },
         {
             "name": "chatgpt-next-3",
-            "icon": "/images/chatgpt.png",
+            "icon": "./images/chatgpt.png",
             "desc": "chatgpt-next-3",
             "showDesc": false,
             "internalUrl": "",
@@ -141,7 +141,7 @@
         },
         {
             "name": "halo",
-            "icon": "/images/halo.png",
+            "icon": "./images/halo.png",
             "desc": "halo",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:8090",
@@ -149,7 +149,7 @@
         },
         {
             "name": "图床",
-            "icon": "https://raw.githubusercontent.com/icret/EasyImages2.0/refs/heads/master/public/images/image_icon_153794.png",
+            "icon": "https://raw.githubusercontent.com/icret/EasyImages2.0/refs/heads/master/public./images/image_icon_153794.png",
             "desc": "图床",
             "showDesc": false,
             "internalUrl": "http://192.168.1.29:58281",
@@ -157,7 +157,7 @@
         },
         {
             "name": "MinIO",
-            "icon": "/images/minio.png",
+            "icon": "./images/minio.png",
             "desc": "MinIO",
             "showDesc": false,
             "internalUrl": "http://192.168.1.29:9001",
@@ -165,7 +165,7 @@
         },
         {
             "name": "ddns-go-unraid",
-            "icon": "/images/ddns-updater.png",
+            "icon": "./images/ddns-updater.png",
             "desc": "ddns-go-unraid",
             "showDesc": false,
             "internalUrl": "http://192.168.1.2:9876",
@@ -173,7 +173,7 @@
         },
         {
             "name": "ddns-go-ds",
-            "icon": "/images/ddns-updater.png",
+            "icon": "./images/ddns-updater.png",
             "desc": "ddns-go-ds",
             "showDesc": false,
             "internalUrl": "http://192.168.1.29:9876",
