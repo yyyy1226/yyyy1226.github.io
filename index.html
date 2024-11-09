@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAS导航</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 id="siteTitle"></h1>
+            <div class="network-status">
+                <span id="statusText">检测中...</span>
+                <div class="mode-switch">
+                    <button onclick="switchMode('auto')" class="active" id="autoMode">自动模式</button>
+                    <button onclick="switchMode('internal')" id="internalMode">内网模式</button>
+                    <button onclick="switchMode('external')" id="externalMode">外网模式</button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="services" id="services">
+            <!-- 服务会通过JavaScript动态添加 -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 

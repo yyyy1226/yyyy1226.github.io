@@ -1,0 +1,191 @@
+{
+    "mode": "auto",
+    "title": "我的NAS",
+    "showDesc": false,
+    "services": [
+        {
+            "name": "Unraid",
+            "icon": "/images/unraid.png",
+            "desc": "Unraid",
+            "showDesc": false,
+            "internalUrl": "https://192.168.1.2",
+            "externalUrl": "https://test.com:10443"
+        },
+        {
+            "name": "群晖",
+            "icon": "/images/DSM2.png",
+            "desc": "群晖",
+            "showDesc": false,
+            "internalUrl": "https://192.168.1.29:5001",
+            "externalUrl": "https://test.com:5001"
+        },
+        {
+            "name": "Bitwarden",
+            "icon": "/images/bitwarden.png",
+            "desc": "Bitwarden",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.29:5080",
+            "externalUrl": "https://test.com:5081"
+        },
+        {
+            "name": "Calibre-Web",
+            "icon": "/images/calibre-web.png",
+            "desc": "Calibre-Web",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:8083",
+            "externalUrl": "https://test.com:58083"
+        },
+        {
+            "name": "emby",
+            "icon": "/images/emby.png",
+            "desc": "emby",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:8096",
+            "externalUrl": "https://test.com:8096"
+        },
+        {
+            "name": "FileBrower",
+            "icon": "/images/FileBrowser.png",
+            "desc": "FileBrower",
+            "showDesc": false,
+            "internalUrl": "https://192.168.1.2:18082",
+            "externalUrl": "https://test.com:18082"
+        },
+        {
+            "name": "alist",
+            "icon": "/images/alist.svg",
+            "desc": "alist",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:5244",
+            "externalUrl": "https://test.com:15245"
+        },
+        {
+            "name": "zfile3",
+            "icon": "/images/zfile.png",
+            "desc": "zfile3",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:8780",
+            "externalUrl": "https://test.com:18781"
+        },
+        {
+            "name": "zfile4",
+            "icon": "/images/zfile.png",
+            "desc": "zfile4",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:8783",
+            "externalUrl": "https://test.com:18783"
+        },
+        {
+            "name": "qBittorrent",
+            "icon": "/images/qbittorrent.png",
+            "desc": "qBittorrent",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:18086",
+            "externalUrl": "https://test.com:38085"
+        },
+        {
+            "name": "immich",
+            "icon": "/images/immich.png",
+            "desc": "immich",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:2283",
+            "externalUrl": "https://test.com:32283"
+        },
+        {
+            "name": "photoprism",
+            "icon": "/images/photoprism.png",
+            "desc": "相册",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:2342",
+            "externalUrl": "https://test.com:32342"
+        },
+        {
+            "name": "MoviePilot",
+            "icon": "/images/moviepilot.png",
+            "desc": "MoviePilot",
+            "showDesc": false,
+            "internalUrl": "https://192.168.1.2:3041",
+            "externalUrl": "https://test.com:13041"
+        },
+        {
+            "name": "软路由",
+            "icon": "/images/router.png",
+            "desc": "软路由",
+            "showDesc": false,
+            "internalUrl": "http://192.168.0.1",
+            "externalUrl": ""
+        },
+        {
+            "name": "chatgpt-next-1",
+            "icon": "/images/chatgpt.png",
+            "desc": "chatgpt-next-1",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:3002",
+            "externalUrl": "https://test.com:23001"
+        },
+        {
+            "name": "chatgpt-next-2",
+            "icon": "/images/chatgpt.png",
+            "desc": "chatgpt-next-2",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.29:53050",
+            "externalUrl": "https://test.com:23002"
+        },
+        {
+            "name": "chatgpt-next-3",
+            "icon": "/images/chatgpt.png",
+            "desc": "chatgpt-next-3",
+            "showDesc": false,
+            "internalUrl": "",
+            "externalUrl": "https://test.com:23003"
+        },
+        {
+            "name": "halo",
+            "icon": "/images/halo.png",
+            "desc": "halo",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:8090",
+            "externalUrl": "https://test.fun"
+        },
+        {
+            "name": "图床",
+            "icon": "https://raw.githubusercontent.com/icret/EasyImages2.0/refs/heads/master/public/images/image_icon_153794.png",
+            "desc": "图床",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.29:58281",
+            "externalUrl": "https://test.fun:58282"
+        },
+        {
+            "name": "MinIO",
+            "icon": "/images/minio.png",
+            "desc": "MinIO",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.29:9001",
+            "externalUrl": "https://test.com:5901"
+        },
+        {
+            "name": "ddns-go-unraid",
+            "icon": "/images/ddns-updater.png",
+            "desc": "ddns-go-unraid",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.2:9876",
+            "externalUrl": ""
+        },
+        {
+            "name": "ddns-go-ds",
+            "icon": "/images/ddns-updater.png",
+            "desc": "ddns-go-ds",
+            "showDesc": false,
+            "internalUrl": "http://192.168.1.29:9876",
+            "externalUrl": ""
+        },
+        {
+            "name": "unBALANCE",
+            "icon": "https://raw.githubusercontent.com/jbrodriguez/unbalance/refs/heads/main/ui/public/favicon-32x32.png",
+            "desc": "unBALANCE",
+            "showDesc": false,
+            "internalUrl": "https://192.168.1.2:6238",
+            "externalUrl": ""
+        }
+    ]
+}
