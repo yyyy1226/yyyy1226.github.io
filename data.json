@@ -124,12 +124,12 @@
             "externalUrl": "https://test.com:23002"
         },
         {
-            "name": "chatgpt-next-3",
+            "name": "chatgpt",
             "icon": "./images/chatgpt.png",
             "desc": "chatgpt-next-3",
             "showDesc": false,
             "internalUrl": "",
-            "externalUrl": "https://test.com:23003"
+            "externalUrl": "https://chatgpt.com/"
         },
         {
             "name": "halo",
