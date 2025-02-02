@@ -4,6 +4,15 @@
     "showDesc": false,
     "services": [
         {
+            "name": "Bilibili",
+            "icon": "./images/bilibili.png",
+            "desc": "哔哩哔哩",
+            "showDesc": false,
+            "internalUrl": "https://www.bilibili.com",
+            "externalUrl": "https://www.bilibili.com"
+        },
+        {
+            
             "name": "Unraid",
             "icon": "./images/unraid.png",
             "desc": "Unraid",
